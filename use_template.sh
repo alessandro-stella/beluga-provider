@@ -124,6 +124,4 @@ for contract in "${contracts[@]}"; do
     }
     {print}
   ' "$go_file" > "${go_file}.tmp" && mv "${go_file}.tmp" "$go_file"
-
 done
-
