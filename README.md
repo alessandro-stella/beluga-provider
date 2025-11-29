@@ -1,12 +1,4 @@
- 
-```____  ______ _     _    _  _____            _____  _____   ______      _______ _____  ______ _____  
- |  _ \|  ____| |   | |  | |/ ____|   /\     |  __ \|  __ \ / __ \ \    / /_   _|  __ \|  ____|  __ \ 
- | |_) | |__  | |   | |  | | |  __   /  \    | |__) | |__) | |  | \ \  / /  | | | |  | | |__  | |__) |
- |  _ <|  __| | |   | |  | | | |_ | / /\ \   |  ___/|  _  /| |  | |\ \/ /   | | | |  | |  __| |  _  / 
- | |_) | |____| |___| |__| | |__| |/ ____ \  | |    | | \ \| |__| | \  /   _| |_| |__| | |____| | \ \ 
- |____/|______|______\____/ \_____/_/    \_\ |_|    |_|  \_\\____/   \/   |_____|_____/|______|_|  \_\
-```                                                                                                      
-                                                                                                      
+![](/photos/beluga_provider.png)
 
 Il progetto consiste in uno script bash che mira a **semplificare la creazione di precompile contracts** durante la creazione di una blockchain, attraverso lo strumento Avalanche in [Precompile-EVM](https://github.com/ava-labs/precompile-evm).
 
