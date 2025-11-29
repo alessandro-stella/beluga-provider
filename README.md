@@ -123,7 +123,7 @@ Dunque, in un futuro non troppo lontano, qualsiasi programmatore, indipendenteme
 
 # TODO
 
-* Marketplace di template (è fornito una semplice implementazione grafica)
+* Marketplace di template (è fornita una semplice implementazione grafica)
 
 * Gestione piu sicura degli errori durante l'esecuzione dello script
 
