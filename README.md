@@ -1,4 +1,7 @@
-![](./photos/beluga_logo_notext.png)
+
+<p align="center">
+  <img src="./photos/beluga_logo_notext.png" width="300">
+</p>
 
 Il progetto consiste in uno script bash che mira a **semplificare la creazione di precompile contracts** durante la creazione di una blockchain, attraverso lo strumento Avalanche in [Precompile-EVM](https://github.com/ava-labs/precompile-evm).
 
