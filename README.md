@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./beluga_logo.png" width="300">
+  <img src="./photos/beluga_logo.png" width="300">
 </p>
 
 
