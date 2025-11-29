@@ -5,7 +5,7 @@
 
   <img src="./photos/beluga_logo_notext.png" width="250" style="margin-right: 20px;">
 
-  <img src="./photos/ascii-art-text.png" width="250" style="margin-left: 20px;">
+  <img src="./photos/ascii-art-text.png" width="500" style="margin-left: 20px;">
 
 </div>
 
