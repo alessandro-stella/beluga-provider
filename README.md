@@ -3,11 +3,9 @@
 
 <div style="display: flex; align-items: center;">
 
-  <img src="path/to/image.png" width="250" style="margin-right: 20px;">
+  <img src="./photos/beluga_logo_notext.png" width="250" style="margin-right: 20px;">
 
-  <div style="font-size: 48px; font-weight: 700; line-height: 1.2;">
-    BELUGA PROVIDER
-  </div>
+  <img src="./photos/ascii-art-text.png" width="250" style="margin-left: 20px;">
 
 </div>
 
