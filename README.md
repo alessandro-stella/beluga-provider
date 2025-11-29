@@ -126,6 +126,8 @@ Dunque, in un futuro non troppo lontano, qualsiasi programmatore, indipendenteme
 
 * Marketplace di template (è fornita una semplice implementazione grafica)
 
+* Aggiungere la possibilità di utilizzare template online acquistati sul marketplace
+
 * Gestione piu sicura degli errori durante l'esecuzione dello script
 
 * Aggiungere sezione del template che gestisca eventuali librerie esterne richieste dai contracts
