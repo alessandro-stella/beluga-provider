@@ -1,8 +1,4 @@
-
-<p align="center">
-  <img src="./photos/beluga_logo.png" width="300">
-</p>
-
+![](./photos/beluga_logo_notext.png)
 
 Il progetto consiste in uno script bash che mira a **semplificare la creazione di precompile contracts** durante la creazione di una blockchain, attraverso lo strumento Avalanche in [Precompile-EVM](https://github.com/ava-labs/precompile-evm).
 
@@ -108,14 +104,14 @@ Do you want to already build? [y/N]
 
 Il progetto è pensato per essere interamente community driven.
 
-Per ora si bassa interamente su Precompile-EVM, ma in futuro può basarsi su una L1 standalone.
+Per ora si basa interamente su Precompile-EVM, ma in futuro può basarsi su una L1 standalone.
 
 L'idea è quella di avere un luogo sicuro, custodito ed aggiornato da una community attiva, per i template dei precompile contracts. 
 
-Più il numero di utenti che contribuiscono al progetto, fornendo template di blockchain
+Più è il numero degli utenti che contribuiscono al progetto, fornendo template di blockchain
 e funzioni, più gli stessi utenti avranno a disposizione strumenti affidabili per lo sviluppo della propria blockchain.
 
-Dunque, in un futuro non troppo lontano, qualsiasi programmatore, indipendentemente dalla sua esperienza, potrà virtualmente usufruire di moltissimi modelli per qualsiasi blockchain.
+Dunque, in un futuro non troppo lontano, qualsiasi programmatore, indipendentemente dalla sua esperienza, potrà usufruire di moltissimi modelli per qualsiasi blockchain.
 
 
 # TODO
