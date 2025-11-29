@@ -129,3 +129,4 @@ Dunque, in un futuro non troppo lontano, qualsiasi programmatore, indipendenteme
 
 * Aggiungere sezione del template che gestisca eventuali librerie esterne richieste dai contracts
 
+* Implementare la gestione dinamica del gas per operazioni computazionalmente pesanti
