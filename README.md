@@ -1,18 +1,25 @@
-# BLOCKCHAIN TEMPLATE BUILDER
+  ____  ______ _     _    _  _____            _____  _____   ______      _______ _____  ______ _____  
+ |  _ \|  ____| |   | |  | |/ ____|   /\     |  __ \|  __ \ / __ \ \    / /_   _|  __ \|  ____|  __ \ 
+ | |_) | |__  | |   | |  | | |  __   /  \    | |__) | |__) | |  | \ \  / /  | | | |  | | |__  | |__) |
+ |  _ <|  __| | |   | |  | | | |_ | / /\ \   |  ___/|  _  /| |  | |\ \/ /   | | | |  | |  __| |  _  / 
+ | |_) | |____| |___| |__| | |__| |/ ____ \  | |    | | \ \| |__| | \  /   _| |_| |__| | |____| | \ \ 
+ |____/|______|______\____/ \_____/_/    \_\ |_|    |_|  \_\\____/   \/   |_____|_____/|______|_|  \_\
+                                                                                                      
+                                                                                                      
 
-Il progetto consiste in uno script bash che mira a **semplificare la creazione di precompile contracts** durante la creazione di una blockchain, attraverso lo strumento Avalanche in [precompile-EVM](https://github.com/ava-labs/precompile-evm).
+Il progetto consiste in uno script bash che mira a **semplificare la creazione di precompile contracts** durante la creazione di una blockchain, attraverso lo strumento Avalanche in [Precompile-EVM](https://github.com/ava-labs/precompile-evm).
 
-Lo script si presenta come funzione "wrapper" dei passaggi 1-3 della [fase di creazione di precompile](https://build.avax.network/academy/avalanche-l1/customizing-evm/07-hash-function-precompile/00-intro).
+Lo script si presenta come funzione "wrapper" dei passaggi 1-4 della [fase di creazione di precompile](https://build.avax.network/academy/avalanche-l1/customizing-evm/07-hash-function-precompile/00-intro).
 
-Altamente consigliata è la conoscenza del funzionamento di precompile-evm. [Qui](https://build.avax.network/academy/avalanche-l1/customizing-evm) si può seguire il tutorial fornito da Avalanche Builder Hub.
+Altamente consigliata è la conoscenza del funzionamento di Precompile-EVM. [Qui](https://build.avax.network/academy/avalanche-l1/customizing-evm) si può seguire il tutorial fornito da Avalanche Builder Hub.
 
 
-## Funzionamento base in precompile-EVM
+## Funzionamento base in Precompile-EVM
 
 1. **Creare un'interfaccia Solidity per il precompile**
 2. **Generare l'ABI**
 3. **Scrivere il codice GO del precompile**
-4. Configurare e registrare il precompile
+4. **Configurare e registrare il precompile**
 5. Creare ed eseguire test
 
 
@@ -22,7 +29,7 @@ La creazione di interfacce Solidity, assieme alla scrittura in Go della logica d
 
 Viene immediata la necessità di avere uno strumento che implementi **template** sicuri, efficienti, affidabili e personalizzabili di precompile contracts.
 
-Se i template sono gestiti da una community attiva, come quella di Avalanche, allora qualsiasi Contract Developer che utilizzi precompile-evm avrà a disposizione migliaia di strumenti per lo sviluppo della propria blockchain, velocizzando le tempistiche di coding e riducendo eventuali errori o bug al minimo.
+Se i template sono gestiti da una community attiva, come quella di Avalanche, allora qualsiasi Contract Developer che utilizzi Precompile-EVM avrà a disposizione migliaia di strumenti per lo sviluppo della propria blockchain, velocizzando le tempistiche di coding e riducendo eventuali errori o bug al minimo.
 
 
 ## La soluzione
@@ -102,10 +109,10 @@ Do you want to already build? [y/N]
 
 ## Manutenibilità dei template
 
-Il progetto è interamente community driven.
-Per ora si bassa interamente su precompile-evm, ma in futuro può basarsi su una L1 standalone.
+Il progetto è pensato per essere interamente community driven.
+Per ora si bassa interamente su Precompile-EVM, ma in futuro può basarsi su una L1 standalone.
 
-L'idea è quella di integrare il nostro progetto con precompile-evm, affinché possa essere costantemente aggiornato in modo sicuro.
+L'idea è quella di avere un luogo sicuro, custodito ed aggiornato da una community attiva, per i template dei precompile contracts. 
 Più il numero di utenti che contribuiscono al progetto, fornendo template di blockchain
 e funzioni, più gli stessi utenti avranno a disposizione strumenti affidabili per lo sviluppo della propria blockchain. Dunque, in un futuro non troppo lontano, qualsiasi programmatore, indipendentemente dalla sua esperienza, potrà virtualmente usufruire di moltissimi modelli per qualsiasi blockchain.
 
