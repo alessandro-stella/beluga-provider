@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="./photos/beluga_logo_notext.png" width="300">
 
-  <p style="font-size: 40px; font-weight: bold; margin-left: 20px;">
+  <p style="font-size: 250px; font-weight: bold; margin-right: 20px;">
     BELUGA PROVIDER
   </p>
 </div>
